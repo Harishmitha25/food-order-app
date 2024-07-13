@@ -58,7 +58,7 @@ Follow these steps to set up the project on your local machine.
     npm run dev
     ```
 
-    The frontend development server will run, and you can view the application in your browser at `http://localhost:3000`.
+    The frontend development server will run, and you can view the application in your browser at `http://localhost:5173`.
 
 ## Usage
 
